@@ -1,5 +1,12 @@
 StickWithThePlanRails::Application.routes.draw do
+<<<<<<< HEAD
   resources :courses
+=======
+  resources :plans
+
+
+  resources :semesters
+>>>>>>> 34fe72bcd4908102910889e0317f461bd12c5963
 
 
   # The priority is based upon order of creation:
